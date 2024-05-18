@@ -53,8 +53,6 @@ namespace AkashDatabase
             tbID.Text = "";
 
             btShowData_Click(null, null);
-
-
         }
 
         private void btShowData_Click(object sender, EventArgs e)
